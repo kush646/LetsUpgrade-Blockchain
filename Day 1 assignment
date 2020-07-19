@@ -1,0 +1,48 @@
+1 what is your understanding of blockchain.
+
+Ans - blockchain is a chain of n number of block in which 
+every block has their own data like number of transactions and
+Every block has a special fingerprint called signature. In 
+blockchain every block connected to the next block and so on.
+
+We can understand it with help of an example :- the first block in 
+blockchain is called initial block which is block 1
+A+B = C, where B represent by data and C is represent by signature.
+Block 2 
+C+D = E, where C is previous signature and D is new data and so on.
+
+And this n number of chain of blocks represent the blockchain.
+
+Blockchain is a technology which provide us every transaction happens
+in the entire system with the security, transparency 
+and decentralisation.
+
+
+2 what is the core problem blockchain trying to solve ?
+
+Ans  The core problem which blockchain trying to solve is 
+provide tthe security as a middle in which no hacking
+is happen and there is no one as third party with the
+transparency of data.
+
+3 what are the few features which blockchain will give you
+
+Ans - verifiable
+      Unchangeable
+      Temper proof
+      Immutable
+
+4 what all things does a blockchain contain ?
+
+Ans - Blockchain contains n number of blocks  in which
+each block have data(number of transactions) , a key
+( signature ) and each block is connected to next one and
+distributes across various computers.
+
+5 How is the verfiability of blockchain is been attained ?
+
+Ans -Suppose the same data is stored in 100 number of computers
+at different different places and one person is enter the wrong
+key than the other 99 respond that, it's wrong and it is change
+by help of nearest person.
+The data can be store at n number of systems. 
